@@ -1,0 +1,14 @@
+.bg-beige{
+    background-color: beige;
+}
+.text{
+    border-style:dotted;
+    width : 100%
+    padding: 30px;
+    margin-bottom: 30px;
+    line-height: 40px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
